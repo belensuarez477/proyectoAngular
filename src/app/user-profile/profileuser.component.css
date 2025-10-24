@@ -1,0 +1,19 @@
+.parent-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  background: #f5f8ff;
+  min-height: 100vh;
+  font-family: "Poppins", sans-serif;
+}
+
+h2 {
+  color: #0078d4;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  color: #555;
+  margin-bottom: 1.5rem;
+}
