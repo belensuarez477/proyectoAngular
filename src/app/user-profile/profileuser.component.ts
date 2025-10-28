@@ -13,6 +13,18 @@ import { CommonModule } from '@angular/common';
 })
 export class ProfileUser {
 
+// datos
+
+nombre = ''
+apellido = ''
+email = ''
+paginaWeb = ''
+contrasena = ''
+
+usuarioRegistradocorrectamente(mensaje: string){
+  alert(mensaje)
+}
+
 }
 
 
